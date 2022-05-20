@@ -1,6 +1,4 @@
-## Project Name
-
-Portflio:Setup and Mobile version skeleton
+## Portflio: Setup and Mobile version skeleton
 
 ## Description
 
